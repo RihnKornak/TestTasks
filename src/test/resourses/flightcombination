@@ -1,0 +1,9 @@
+site = https://www.delta.com/
+trip = ROUND TRIP
+departure = JFK
+destination = SVO
+departDate = 8/30/2017
+destinDate = 10/30/2017
+exactDates = EXACT DATES
+typeOfPrice = Money
+restFields = Leave the rest fields by default
